@@ -3,19 +3,13 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        s,p = 0,0
+        #time complexity O(N)
+        #space complexity O(1)
+        seek , p =0, 0
 
-        while s < len(nums):
-            if nums[s] !=0:
-                nums[s], nums[p] = nums[p], nums[s]
-                p +=1
-            s += 1
-            
-            # if nums[s] == 0:
-            #     s+=1
-            # if nums[p] !=0:
-            #     p+=1
-            
+        while seek <len(nums):
+            if nums[seek] !=0:
+                nums[p] ,nums[seek] =nums[seek], nums[p]
+                p += 1
+            seek += 1
         return nums
-
-
