@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0073-set-matrix-zeroes) |
+| [0164-maximum-gap](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0164-maximum-gap) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Hash Table
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0049-group-anagrams) |
+| [0164-maximum-gap](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0164-maximum-gap) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Matrix
 |  |
@@ -26,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0049-group-anagrams) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
