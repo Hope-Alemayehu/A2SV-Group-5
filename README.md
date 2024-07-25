@@ -87,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0199-binary-tree-right-side-view) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
