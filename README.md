@@ -71,4 +71,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0948-sort-an-array) |
+## Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0199-binary-tree-right-side-view) |
+## Depth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0199-binary-tree-right-side-view) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0199-binary-tree-right-side-view) |
+## Binary Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
