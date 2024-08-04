@@ -1,19 +1,22 @@
+import heapq
+
 class Solution:
     def rangeSum(self, nums: List[int], n: int, left: int, right: int) -> int:
-        subarraySum = [] + nums
+        MOD = 10**9 + 7
+        pq = []
+        subarraySum = []
         N = len(nums)
-        Mod = 10**9 + 7
         
+        # Initialize priority queue with single-element subarrays
         for i in range(N):
-            cur = nums[i]
-            for j in range(i+1,N):
-                
-                cur += nums[j]
-                subarraySum.append(cur)
-                
-        subarraySum.sort()
-        # print(subarraySum)
-        ans = sum(subarraySum[left - 1 : right])
-    
-        return ans % Mod 
-
+            heapq.heappush(pq, (nums[i], i, i))
+        
+        # Generate subarray sums and store in priority queue
+        for _ in range(right):
+            val, start, end = heapq.heappop(pq)
+            subarraySum.append(val)
+            if end + 1 < N:
+                heapq.heappush(pq, (val + nums[end + 1], start, end + 1))
+        
+        # Return the sum of the subarray sums from index left to right
+        return sum(subarraySum[left - 1:right]) % MOD
