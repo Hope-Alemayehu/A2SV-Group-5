@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -208,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0789-kth-largest-element-in-a-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
