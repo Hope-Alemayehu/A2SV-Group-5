@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0164-maximum-gap) |
 | [0200-number-of-islands](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0200-number-of-islands) |
+| [0624-maximum-distance-in-arrays](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0624-maximum-distance-in-arrays) |
 | [0695-max-area-of-island](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0695-max-area-of-island) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0890-lemonade-change](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0890-lemonade-change) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
