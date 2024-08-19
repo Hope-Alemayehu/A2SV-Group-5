@@ -155,10 +155,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0009-palindrome-number) |
 | [0264-ugly-number-ii](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0273-integer-to-english-words) |
+| [0650-2-keys-keyboard](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0650-2-keys-keyboard) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0650-2-keys-keyboard) |
 | [1196-filling-bookcase-shelves](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1511-count-number-of-teams) |
