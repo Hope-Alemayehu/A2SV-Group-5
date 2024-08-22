@@ -227,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0040-combination-sum-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
