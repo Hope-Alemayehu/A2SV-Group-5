@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0164-maximum-gap) |
 | [0200-number-of-islands](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0347-top-k-frequent-elements) |
 | [0624-maximum-distance-in-arrays](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0624-maximum-distance-in-arrays) |
 | [0695-max-area-of-island](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0695-max-area-of-island) |
@@ -271,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
