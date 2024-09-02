@@ -1,6 +1,6 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        #time complexity
+        #time complexity O(N)
         #space complexity
 
         counter = {}
@@ -12,8 +12,5 @@ class Solution:
             if sortedStr not in counter:
                 counter[sortedStr] = []
             counter[sortedStr].append(s)
-        res = []
-        for key, val in counter.items():
-            res.append(list(val))
-        return res
+        return list(counter.values())
 
