@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0164-maximum-gap) |
 | [0200-number-of-islands](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0217-contains-duplicate) |
 | [0624-maximum-distance-in-arrays](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0624-maximum-distance-in-arrays) |
 | [0695-max-area-of-island](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0695-max-area-of-island) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0073-set-matrix-zeroes) |
+| [0217-contains-duplicate](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0217-contains-duplicate) |
 | [0264-ugly-number-ii](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0264-ugly-number-ii) |
 | [0999-regions-cut-by-slashes](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0999-regions-cut-by-slashes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0049-group-anagrams) |
 | [0164-maximum-gap](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0164-maximum-gap) |
+| [0217-contains-duplicate](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0217-contains-duplicate) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1333-sort-the-jumbled-numbers) |
