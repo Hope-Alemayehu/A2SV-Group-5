@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0128-longest-consecutive-sequence) |
 | [0164-maximum-gap](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0164-maximum-gap) |
 | [0200-number-of-islands](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0217-contains-duplicate) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0264-ugly-number-ii) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0695-max-area-of-island) |
 | [0999-regions-cut-by-slashes](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0999-regions-cut-by-slashes) |
