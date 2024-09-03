@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0073-set-matrix-zeroes) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0217-contains-duplicate) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0695-max-area-of-island) |
