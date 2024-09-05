@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0040-combination-sum-ii) |
+| [0077-combinations](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0077-combinations) |
 ## Bit Manipulation
 |  |
 | ------- |
