@@ -1,21 +1,29 @@
 class Solution:
-    def combinationSum2(self, nums: List[int], target: int) -> List[List[int]]:
-        ans = []
-        nums.sort()
-        
-        def dfs(index,path):
-            if sum(path) == target:
-                ans.append(path.copy())
+    def combinationSum2(self, candidates: List[int], target: int) -> List[List[int]]:
+        #time complexity O(NlogN) + O(2^N)
+        #space complexity O(N)
+        res = []
+        n = len(candidates)
+        candidates.sort()
+        def sumSubs(path,index, remaining):
+            if remaining == 0: 
+                res.append(path[:])
+                return 
+            if remaining <= 0:
                 return
-            for j in range(index,len(nums)):
-                if sum(path) + nums[j] > target:
-                    return
-                #to avoid duplicates
-                if j > index and nums[j] == nums[j-1]:
+
+            #initalizing prev with -1 since noone has the value of -2
+            prev = -1
+            for i in range (index,n):
+                c = candidates[i]
+                if c == prev:
                     continue
-                path.append(nums[j])
-                dfs(j+1,path)
+                path.append(c)
+                sumSubs(path,i+1, remaining - c)
                 path.pop()
-            
-        dfs(0,[])
-        return ans
+
+                prev = c
+            return
+
+        sumSubs([], 0,target)
+        return res
