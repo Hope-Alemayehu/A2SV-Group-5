@@ -1,12 +1,13 @@
 class Solution:
     def combine(self, n: int, k: int) -> List[List[int]]:
-        
+        #time comple
         res = []
         def backtrack(index, path):
             if len(path) == k:
                 res.append(path[:])
                 return
-            if index >= n:
+            #some pruning
+            if index >= n or len(path) > k:
                 return
             
             #not pick that number
