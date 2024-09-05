@@ -1,23 +1,23 @@
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
-        res = set()
+        #time complexity  O(N^(T/M) + N)
+        #space complexity O(N)
+        
+        res = []
         n = len(candidates)
-        def backtrack(path, summ):
-            if summ == 0:
-                ans = path[:]
-                ans.sort()
-                res.add(tuple(ans))
+        def backtrack(start, path, remaining):
+            if remaining == 0:
+                res.append(path[:])
                 return 
-            if summ < 0:
+            if remaining < 0 or start > n:
                 return
             
-            for c in candidates:
-              
+            for i in range(start, n):
+                c = candidates[i]
                 path.append(c)
-                summ -= c
-                backtrack(path, summ)
-                summ += path.pop()
+                backtrack(i, path, remaining - c)
+                path.pop()
 
 
-        backtrack( [], target)
-        return list(res)
+        backtrack(0, [], target)
+        return res
