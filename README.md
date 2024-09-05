@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0921-spiral-matrix-iii) |
+| [0926-find-and-replace-pattern](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0926-find-and-replace-pattern) |
 | [0948-sort-an-array](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0999-regions-cut-by-slashes) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0347-top-k-frequent-elements) |
 | [0906-walking-robot-simulation](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0906-walking-robot-simulation) |
+| [0926-find-and-replace-pattern](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0926-find-and-replace-pattern) |
 | [0999-regions-cut-by-slashes](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0999-regions-cut-by-slashes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0273-integer-to-english-words) |
 | [0564-find-the-closest-palindrome](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0592-fraction-addition-and-subtraction) |
+| [0926-find-and-replace-pattern](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0926-find-and-replace-pattern) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2163-kth-distinct-string-in-an-array) |
