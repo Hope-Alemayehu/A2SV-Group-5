@@ -7,9 +7,6 @@ class Solution:
             for c in word:
                 if c not in check:
                     flag = False
-                    break
             if flag:
                 ans += 1
-
         return ans
-            
