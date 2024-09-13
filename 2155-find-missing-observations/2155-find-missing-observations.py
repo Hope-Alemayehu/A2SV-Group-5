@@ -1,5 +1,7 @@
 class Solution:
     def missingRolls(self, rolls: List[int], mean: int, n: int) -> List[int]:
+        #time complexity O(N + M)
+        #space complexity O(N) 
         length = len(rolls)
         total = sum(rolls)
         reminderTotal = mean*(length + n) -  total
@@ -22,7 +24,5 @@ class Solution:
                 rem -= 1
             else:
                 ans.append(numm)
-            
-        ans[-1] += rem
         return ans
         
