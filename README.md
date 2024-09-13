@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2035-count-sub-islands](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2411-spiral-matrix-iv) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0921-spiral-matrix-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2155-find-missing-observations) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2411-spiral-matrix-iv) |
 | [2645-pass-the-pillow](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2645-pass-the-pillow) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0650-2-keys-keyboard) |
+| [2155-find-missing-observations](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2645-pass-the-pillow) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Dynamic Programming
