@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2155-find-missing-observations) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Linked List
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0921-spiral-matrix-iii) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2155-find-missing-observations) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0238-product-of-array-except-self) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Number Theory
 |  |
 | ------- |
