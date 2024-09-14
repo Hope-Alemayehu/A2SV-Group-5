@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2411-spiral-matrix-iv) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0476-number-complement) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Quickselect
 |  |
 | ------- |
@@ -328,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
