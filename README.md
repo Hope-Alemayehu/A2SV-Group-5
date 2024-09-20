@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3485-maximize-score-of-numbers-in-ranges](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1741-sort-array-by-increasing-frequency) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3485-maximize-score-of-numbers-in-ranges](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 ## Matrix
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [3485-maximize-score-of-numbers-in-ranges](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 ## Linked List
 |  |
 | ------- |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3485-maximize-score-of-numbers-in-ranges](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 ## Two Pointers
 |  |
 | ------- |
