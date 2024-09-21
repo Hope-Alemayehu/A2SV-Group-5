@@ -1,22 +1,21 @@
 class Solution:
     def trap(self, height: List[int]) -> int:
         #time complexity O(N)
-        #space complexity O(N)
-        n = len(height)
-        minLeft = [0]
-        minRight = [0 for i in range(n)]
+        #space complexity O(1)
+        if not height:
+            return 0
 
-        for i in range(n - 1):
-            minLeft.append(max(minLeft[-1], height[i]))
+        l, r = 0, len(height)-1
+        leftMax, rightMax = height[l], height[r]
+        res = 0
 
-        for i in range(n-2, -1, -1):
-            minRight[i] = max(height[i+1], minRight[i+1])
-        # print(minLeft)
-        # print(minRight)
-        ans = 0
-        for i in range(n):
-            cur = min(minLeft[i],minRight[i]) - height[i]
-            if cur > 0:
-                ans += cur
-
-        return ans
+        while l < r:
+            if leftMax < rightMax:
+                l += 1
+                leftMax = max(leftMax, height[l])
+                res += leftMax - height[l]
+            else:
+                r -= 1
+                rightMax = max(rightMax, height[r])
+                res += rightMax - height[r]
+        return res        
