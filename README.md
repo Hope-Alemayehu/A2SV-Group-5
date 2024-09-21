@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0128-longest-consecutive-sequence) |
 | [0164-maximum-gap](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0164-maximum-gap) |
@@ -334,9 +335,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0078-subsets) |
 | [0476-number-complement](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0476-number-complement) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1786-count-the-number-of-consistent-strings) |
