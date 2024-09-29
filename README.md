@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0347-top-k-frequent-elements) |
+| [0432-all-oone-data-structure](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0432-all-oone-data-structure) |
 | [0906-walking-robot-simulation](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0926-find-and-replace-pattern) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0859-design-circular-deque) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2411-spiral-matrix-iv) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -402,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0859-design-circular-deque) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
