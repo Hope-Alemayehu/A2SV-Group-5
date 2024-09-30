@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1333-sort-the-jumbled-numbers) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0042-trapping-rain-water) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Greedy
 |  |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0859-design-circular-deque) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Binary Search Tree
 |  |
 | ------- |
