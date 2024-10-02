@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0999-regions-cut-by-slashes) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1196-filling-bookcase-shelves](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1196-filling-bookcase-shelves) |
+| [1256-rank-transform-of-an-array](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1333-sort-the-jumbled-numbers) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0926-find-and-replace-pattern) |
 | [0999-regions-cut-by-slashes](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0999-regions-cut-by-slashes) |
+| [1256-rank-transform-of-an-array](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1256-rank-transform-of-an-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0347-top-k-frequent-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0948-sort-an-array) |
+| [1256-rank-transform-of-an-array](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1333-sort-the-jumbled-numbers) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
