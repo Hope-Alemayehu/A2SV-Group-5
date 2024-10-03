@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1694-make-sum-divisible-by-p](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0238-product-of-array-except-self) |
 | [0731-my-calendar-ii](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0731-my-calendar-ii) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1694-make-sum-divisible-by-p](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Number Theory
 |  |
