@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0347-top-k-frequent-elements) |
+| [0744-network-delay-time](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1325-path-with-maximum-probability) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0744-network-delay-time) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0999-regions-cut-by-slashes](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0744-network-delay-time) |
 | [0999-regions-cut-by-slashes](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0999-regions-cut-by-slashes) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0744-network-delay-time) |
 | [1325-path-with-maximum-probability](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2121-find-if-path-exists-in-graph) |
@@ -292,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0744-network-delay-time) |
 | [1325-path-with-maximum-probability](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/3235-minimum-cost-to-convert-string-i) |
