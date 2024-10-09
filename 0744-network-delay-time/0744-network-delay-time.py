@@ -5,7 +5,7 @@ class Solution:
 
         for start, end, weight in times:
             graph[start].append((end, weight))
-        print(graph)
+        
 
         distance = {node: float("inf") for node in range(1,n+1)}
         distance[k] = 0
