@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0242-valid-anagram) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0042-trapping-rain-water) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0776-n-ary-tree-postorder-traversal) |
