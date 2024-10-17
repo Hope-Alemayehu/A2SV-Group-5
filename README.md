@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0650-2-keys-keyboard) |
+| [0670-maximum-swap](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0670-maximum-swap) |
 | [2155-find-missing-observations](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2645-pass-the-pillow) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0011-container-with-most-water) |
 | [0624-maximum-distance-in-arrays](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0624-maximum-distance-in-arrays) |
+| [0670-maximum-swap](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0670-maximum-swap) |
 | [0890-lemonade-change](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
