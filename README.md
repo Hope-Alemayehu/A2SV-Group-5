@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0670-maximum-swap) |
+| [2050-count-good-numbers](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2645-pass-the-pillow) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0273-integer-to-english-words) |
+| [2050-count-good-numbers](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2050-count-good-numbers) |
 ## Strongly Connected Component
 |  |
 | ------- |
