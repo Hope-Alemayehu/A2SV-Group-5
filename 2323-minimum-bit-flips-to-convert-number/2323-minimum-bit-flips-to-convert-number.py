@@ -1,10 +1,9 @@
 class Solution:
     def minBitFlips(self, start: int, goal: int) -> int:
-        xor_result = start ^ goal
-        ans = 0
-        
-        while xor_result > 0:
-            ans += xor_result & 1  
-            xor_result >>= 1     
-        
+        xor = start ^ goal
+        xor_binary = str(bin(xor))
+        ans = 0 
+        for c in xor_binary:
+            if c == "1":
+                ans += 1
         return ans
