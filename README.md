@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2755-extra-characters-in-a-string](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2755-extra-characters-in-a-string) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [3165-find-indices-with-index-and-value-difference-i](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3165-find-indices-with-index-and-value-difference-i](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3195-separate-black-and-white-balls](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/3195-separate-black-and-white-balls) |
 ## Union Find
 |  |
