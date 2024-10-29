@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2755-extra-characters-in-a-string](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2755-extra-characters-in-a-string) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/3485-maximize-score-of-numbers-in-ranges) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2411-spiral-matrix-iv) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## String
 |  |
 | ------- |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1511-count-number-of-teams](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2755-extra-characters-in-a-string](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2755-extra-characters-in-a-string) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Graph
 |  |
 | ------- |
