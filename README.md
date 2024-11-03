@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0273-integer-to-english-words) |
 | [0564-find-the-closest-palindrome](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0592-fraction-addition-and-subtraction) |
+| [0812-rotate-string](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0926-find-and-replace-pattern) |
 | [1197-parsing-a-boolean-expression](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1197-parsing-a-boolean-expression) |
@@ -488,4 +489,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0432-all-oone-data-structure) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
