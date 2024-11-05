@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1196-filling-bookcase-shelves](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1196-filling-bookcase-shelves) |
 | [1256-rank-transform-of-an-array](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1256-rank-transform-of-an-array) |
+| [1306-minimum-absolute-difference](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1306-minimum-absolute-difference) |
 | [1325-path-with-maximum-probability](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1333-sort-the-jumbled-numbers) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1256-rank-transform-of-an-array) |
+| [1306-minimum-absolute-difference](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1306-minimum-absolute-difference) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1333-sort-the-jumbled-numbers) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
