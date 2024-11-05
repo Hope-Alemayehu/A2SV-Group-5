@@ -1,10 +1,18 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        counter = {}
-        for i, num in enumerate (nums):
-            if target - num in counter:
-                index = counter[target - num]
-                return [index,i]
-                break
-            counter[num] = i
+        #brute force solution
+        N = len(nums)
+        # for i in range(N):
+        #     for j in range(i + 1, N):
+        #         if nums[i] + nums[j] == target:
+        #             return [i,j]
        
+
+        #optimized solution
+        indexMap = defaultdict(int)
+        for i in range(N):
+            reminder = target - nums[i]
+            if reminder in indexMap:
+                return [indexMap[reminder], i]
+            indexMap[nums[i]] = i
+        
