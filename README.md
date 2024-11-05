@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0238-product-of-array-except-self) |
 | [0271-encode-and-decode-strings](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0271-encode-and-decode-strings) |
 | [0347-top-k-frequent-elements](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0380-insert-delete-getrandom-o1) |
 | [0624-maximum-distance-in-arrays](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0695-max-area-of-island) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0380-insert-delete-getrandom-o1) |
 | [0432-all-oone-data-structure](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0432-all-oone-data-structure) |
 | [0906-walking-robot-simulation](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0264-ugly-number-ii](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0273-integer-to-english-words) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0380-insert-delete-getrandom-o1) |
 | [0492-construct-the-rectangle](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0492-construct-the-rectangle) |
 | [0564-find-the-closest-palindrome](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0592-fraction-addition-and-subtraction) |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0271-encode-and-decode-strings](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0271-encode-and-decode-strings) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0380-insert-delete-getrandom-o1) |
 | [0432-all-oone-data-structure](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0731-my-calendar-ii) |
@@ -504,4 +508,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0643-maximum-average-subarray-i) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
