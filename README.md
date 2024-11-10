@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Quickselect
 |  |
 | ------- |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0643-maximum-average-subarray-i) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Randomized
 |  |
 | ------- |
