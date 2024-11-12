@@ -1,24 +1,31 @@
 class RandomizedSet:
 
-    def __init__(self):
-        self.curSet = set()
-        
+    def __init__(self): 
+        self.num_index_map = defaultdict(int)
+        self.values = []
 
     def insert(self, val: int) -> bool:
-        if val in self.curSet:
+        if val in self.num_index_map:
             return False
-        self.curSet.add(val)
+        self.num_index_map[val] = len(self.values) 
+        self.values.append(val)
         return True
-        
-
+       
     def remove(self, val: int) -> bool:
-        if val in self.curSet:
-            self.curSet.remove(val)
-            return True
-        return False
+        if val not in self.num_index_map:
+            return False
+        val_index = self.num_index_map[val]
+        last_val = self.values[-1]
+        self.num_index_map[last_val] = val_index
+        self.values[val_index] = last_val
+        del(self.num_index_map[val])
+        self.values.pop()
 
+        return True
     def getRandom(self) -> int:
-        return random.choice(list(self.curSet))
+        
+        return random.choice(self.values)
+        
 
 
 # Your RandomizedSet object will be instantiated and called as such:
