@@ -1,23 +1,18 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        
-        #initalize a dictionary for counting
+        #create a hashmap for counting
         freq = defaultdict(int)
-        #start moving through the string while counting
-        left = 0
-        N = len(s)
+        #intalize the left and right pointers
+        left, right = 0, 0
+        #intalize the result to have smallest possible value
         result = 0
-
-        for i in range(N):
-        
-            freq[s[i]] += 1
-            #if the count of one character > 1 minimize the window from the left
-            while freq[s[i]] == 2:
-                
+        #iterate through the string
+        for right in range(len(s)):
+            freq[s[right]] += 1
+            #remove duplicates
+            while freq[s[right]] == 2:
                 freq[s[left]] -= 1
-                if freq[s[left]] == 0:
-                    del(freq[s[left]])
                 left += 1
-            result = max(result, i - left + 1)
-        return result
-  
+            #update the result
+            result = max(result, right - left + 1)
+        return result 
