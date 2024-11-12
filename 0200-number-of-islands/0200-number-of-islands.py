@@ -1,26 +1,33 @@
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
-        #define the four directions
-        directions = [(0,1),(0,-1),(1,0),(-1,0)]
-        rows, cols = len(grid), len(grid[0])
-        #define a dfs function
-        def dfs(r: int,c: int) -> None:
-            if r < 0 or r == rows or c < 0 or c == cols or grid[r][c] != "1":
-                return
-          
-            grid[r][c] = "2"
+
+        #define the basic dfs function
+        def dfs(r: int, c:int) -> None:
+            if r < 0 or r >= rows or c < 0 or c >= cols or grid[r][c] == "0":
+                return 
+            visited.add((r,c))
 
             for x, y in directions:
-                nx, ny = r + x, c + y
-                dfs(nx,ny)
-
-        result = 0
-        for i in range(rows):
-            for j in range(cols):
-                if grid[i][j] == "1":
+                nx, ny = x + r, y + c
+                if (nx,ny) not in visited:
+                    dfs(nx, ny)
+                    
+        #get the dimentions of the grid
+        rows, cols = len(grid), len(grid[0])
+        #create a visited set
+        visited = set()
+        #create a list of the possible directions
+        directions = [(0,1),(0,-1),(1,0),(-1,0)]
+        #create a variable to store the result
+        result = 0 
+        #iterate over each cells
+        for r in range(rows):
+            for c in range(cols):
+                #if the cell isn't in the visited set and has value of "1" call dfs
+                if (r,c) not in visited and grid[r][c] == "1":
                     result += 1
-                    dfs(i,j)
+                    dfs(r,c)
         return result
 
-        #keep a global variable that counts the island
-        #return that variable
+        
+            
