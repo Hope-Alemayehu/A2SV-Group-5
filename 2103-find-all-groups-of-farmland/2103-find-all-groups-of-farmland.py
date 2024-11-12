@@ -1,17 +1,18 @@
 class Solution:
     def findFarmland(self, land: List[List[int]]) -> List[List[int]]:
-        
-        def dfs(r: int, c: int, heap:List[List[int]]) -> list:
+        #time complexity O(rows * cols)
+        #space complexity O(1)
+        def dfs(r: int, c: int) -> None:
             if r < 0 or r >= rows or c < 0 or c >= cols or land[r][c] == 0:
                 return 
             if land[r][c] == 2:
                 return 
             land[r][c] = 2
-            heapq.heappush(heap,[-r,-c])
+            nonlocal max_r, max_c
+            max_r = max(r, max_r)
+            max_c = max(c, max_c)
             for x, y in directions:
-                dfs(r + x, c + y,heap)
-        
-            return heap[0]
+                dfs(r + x, c + y)
 
         #get the dimention of the land
         rows, cols = len(land), len(land[0])
@@ -27,10 +28,8 @@ class Solution:
                 if land[r][c] == 1:
                     #create temporary list
                     #add the starting cell and call the dfs function
-                    heap = []
-                    temp = [r,c]
-                    res = dfs(r,c,heap)
-                    temp = temp + [abs(res[0]), abs(res[1])]
-                    result.append(temp)
+                    max_r, max_c = r, c
+                    dfs(r,c)
+                    result.append([r,c,max_r,max_c])
         return result
     
