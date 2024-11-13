@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0199-binary-tree-right-side-view) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0200-number-of-islands) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0199-binary-tree-right-side-view) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0155-min-stack) |
