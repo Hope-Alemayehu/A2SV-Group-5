@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0380-insert-delete-getrandom-o1) |
+| [0387-first-unique-character-in-a-string](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0387-first-unique-character-in-a-string) |
 | [0432-all-oone-data-structure](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0432-all-oone-data-structure) |
 | [0906-walking-robot-simulation](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0271-encode-and-decode-strings) |
 | [0273-integer-to-english-words](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0273-integer-to-english-words) |
+| [0387-first-unique-character-in-a-string](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0387-first-unique-character-in-a-string) |
 | [0564-find-the-closest-palindrome](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0592-fraction-addition-and-subtraction) |
 | [0812-rotate-string](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0812-rotate-string) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0387-first-unique-character-in-a-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0948-sort-an-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0387-first-unique-character-in-a-string) |
 | [0859-design-circular-deque](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0859-design-circular-deque) |
 ## Doubly-Linked List
 |  |
