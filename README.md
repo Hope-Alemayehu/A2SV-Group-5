@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0264-ugly-number-ii](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0273-integer-to-english-words) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0050-powx-n) |
 | [0273-integer-to-english-words](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0273-integer-to-english-words) |
 | [1197-parsing-a-boolean-expression](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1667-find-kth-bit-in-nth-binary-string) |
