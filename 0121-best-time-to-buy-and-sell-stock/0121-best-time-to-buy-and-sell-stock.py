@@ -1,13 +1,14 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
+        #Dp approch
         #time complexity O(N)
-        #space complexity O(1)
-        min_price = float("inf")
+        #space complexity O(N)
+        min_prices = [prices[0]]
+        for i in range(1,len(prices)):
+            min_prices.append(min(prices[i], min_prices[i-1]))
+        # print(min_prices)
         max_profit = 0
+        for i in range(len(prices)):
+            max_profit = max(max_profit, prices[i] - min_prices[i])
 
-        for price in prices:
-            if price < min_price:
-                min_price = price
-            else:
-                max_profit = max(max_profit, price - min_price)
         return max_profit
