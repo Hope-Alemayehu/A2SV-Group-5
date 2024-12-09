@@ -1,29 +1,31 @@
 class Solution:
     def invalidTransactions(self, transactions: List[str]) -> List[str]:
-        #time complexity O(NlogN + O(N*K))
-        #space complexity O(N)
-        parser = []
-        n = len(transactions)
-        for i in range(len(transactions)):
-            name, time, amount, city = transactions[i].split(",")
-            parser.append([name,int(time),int(amount),city, i])
-        parser.sort(key=lambda x : (x[0],x[1]))
-        invalid = set()
-        for i, (name, time, amount, city, index) in enumerate(parser):
-            if amount > 1000:
-                invalid.add(index)
-                
-            for j in range(i-1,-1,-1):
-                if parser[j][0] != name:
-                    break
-                if time - parser[j][1] > 60:
-                    break
-                if city != parser[j][3]:
-                    invalid.add(index)
-                    invalid.add(parser[j][4])
-        result = []
-        for idx in invalid:
-            result.append(transactions[idx])
-        return result
-            
-        
+        #build the hashmap name: [time, amount, index]
+        nameMap = defaultdict(list)
+        N = len(transactions)
+
+        for i,t in enumerate(transactions):
+            name, time, amount, city = t.split(",")
+            nameMap[name].append([int(time),int(amount),city,i])
+
+        #create a list to store the invalid transaction indices
+        invalidIndices = set()
+        #iterate through each name.
+        for key, value in nameMap.items():
+            length = len(value)
+            for i in range(length):
+                if value[i][1] > 1000:
+                    invalidIndices.add(value[i][3])
+                    # continue
+                for j in range(i+1,length):
+                    if value[i][2] == value[j][2]:
+                        continue
+                    if abs(value[i][0] - value[j][0]) <= 60:
+                        invalidIndices.add(value[i][3])
+                        invalidIndices.add(value[j][3])
+        # print(invalidIndices)               
+        ans = []
+        for i in invalidIndices:
+            ans.append(transactions[i])
+
+        return ans
