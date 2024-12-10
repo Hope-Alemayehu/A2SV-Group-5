@@ -1,31 +1,28 @@
 class Solution:
     def invalidTransactions(self, transactions: List[str]) -> List[str]:
-        #build the hashmap name: [time, amount, index]
-        nameMap = defaultdict(list)
-        N = len(transactions)
+        # transactions.sort()
+        parser = []
+        for i,transaction in enumerate(transactions):
+            name,time, amount, city = transaction.split(",")
+            parser.append([name, int(time),int(amount),city,i])
 
-        for i,t in enumerate(transactions):
-            name, time, amount, city = t.split(",")
-            nameMap[name].append([int(time),int(amount),city,i])
-
-        #create a list to store the invalid transaction indices
-        invalidIndices = set()
-        #iterate through each name.
-        for key, value in nameMap.items():
-            length = len(value)
-            for i in range(length):
-                if value[i][1] > 1000:
-                    invalidIndices.add(value[i][3])
-                    # continue
-                for j in range(i+1,length):
-                    if value[i][2] == value[j][2]:
-                        continue
-                    if abs(value[i][0] - value[j][0]) <= 60:
-                        invalidIndices.add(value[i][3])
-                        invalidIndices.add(value[j][3])
-        # print(invalidIndices)               
-        ans = []
-        for i in invalidIndices:
-            ans.append(transactions[i])
-
-        return ans
+        parser.sort(key=lambda x:(x[0],x[1]))
+        invalids = set()
+        for index, value in enumerate(parser):
+            name, time, amount, city, i = value
+            if amount > 1000:
+                invalids.add(i)
+            for j in range (index-1,-1,-1):
+                if name != parser[j][0]:
+                    break
+                if (time - parser[j][1]) > 60:
+                    break
+                if city != parser[j][3]:
+                    invalids.add(i)
+                    invalids.add(parser[j][4])
+        results = []
+        # print(invalids)
+        for i in invalids:
+            results.append(transactions[i])
+        return results
+        # [[ali,20,100,bej],[alic,40,122,bej],[ali,50,214,ny]]
