@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-separate-black-and-white-balls](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/3195-separate-black-and-white-balls) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2755-extra-characters-in-a-string](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/2755-extra-characters-in-a-string) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Segment Tree
 |  |
 | ------- |
@@ -547,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0812-rotate-string](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -557,4 +561,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/0380-insert-delete-getrandom-o1) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Hope-Alemayehu/A2SV-Group-5/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
